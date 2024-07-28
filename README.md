@@ -47,14 +47,7 @@ This notebook is used to:
 3. Train a neural network model to classify MNIST digits.
 4. Save the trained model to a file (`mnist_model.keras`).
 
-### Key Code Sections
 
-- **Dataset Preparation**: Loading and normalizing the MNIST dataset.
-- **Model Definition**: Creating and compiling the Keras model.
-- **Training**: Training the model on the MNIST training dataset.
-- **Evaluation**: Evaluating the model on the test dataset.
-- **Visualization**: Plotting some sample images and their predictions.
-- **Saving**: Saving the trained model to `mnist_model.keras`.
 
 
 
@@ -67,12 +60,6 @@ This notebook is used to:
 3. Process the uploaded images and make predictions.
 4. Display the predicted class along with the confidence percentage.
 
-### Key Code Sections
-
-- **Image Upload**: Uploading images using a Colab file upload widget.
-- **Image Processing**: Converting uploaded images to the format required by the model.
-- **Prediction**: Making predictions using the loaded model.
-- **Visualization**: Displaying the uploaded image and prediction results.
 
 
 ## How to Use
